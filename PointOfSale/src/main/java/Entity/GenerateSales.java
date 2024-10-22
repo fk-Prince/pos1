@@ -1,6 +1,6 @@
 package Entity;
 
-import Repository.TotalSalesService;
+import Repository.PaymentRepository.TotalSalesService;
 
 import java.util.List;
 

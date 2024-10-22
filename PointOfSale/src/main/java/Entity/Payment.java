@@ -1,6 +1,6 @@
 package Entity;
 
-public class Payment extends ProductEntity {
+public class Payment extends Product {
 
     public Payment(int productId, String productBrandName, double productPrice, int productStock) {
         super(productId, productBrandName, productPrice, productStock);
